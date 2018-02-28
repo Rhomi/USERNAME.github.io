@@ -1,176 +1,137 @@
-{
-  "basics": {
-    "name": "Deepak George",
-    "label": "Developer",
-    "picture": "https://rhomi.github.io/images/pic.jpg",
-    "email": "georged@mail.usf.edu",
-    "email": "deepakgeorge010@gmail.com"
-    "website": "https://rhomi.github.io",
-    "summary": "I am a Graduate studen in Business Analytics and Information Systems from the University of South Florida. I expect to graduate in Fall, 2018.",
-    "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Tampa",
-      "countryCode": "USA",
-      "region": "Florida"
-    },
-    "profiles": [
-      {
-        "network": "github",
-        "username": "rhomi",
-        "url": "http://github.com/rhomi"
-      },
-      {
-        "network": "linkedin",
-        "username": "Deepak George",
-        "url": "https://www.linkedin.com/in/deepak-george-89602590/"
-      },
-      {
-        "network": "medium",
-        "username": "Rhomi Elijah",
-        "url": "https://medium.com/me/stories/public"
-      }
-    ]
-  },
-  "interests": [
-    {
-      "name": "Data Science",
-      "keywords": [
-        "AI",
-        "Deep Learning",
-        "Machine Learning"
-      ]
-    },
-    {
-      "name": "Python",
-      "keywords": [
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Python and Machine Learning",
-      "level": "",
-      "keywords": [
-        "Python",
-        "Anaconda",
-        "Numpy",
-        "Scikit",
-        "Pandas",
-        "TensorFlow",
-        "Keras",
-        "Beautiful Soup",
-        "Selenium"
-      ]
-    },
-    {
-      "name": "Data Analysis",
-      "level": "",
-      "keywords": [
-        "SQL", 
-        "R", 
-        "Excel",
-        "Pivot Table",
-        "Tableau",
-        "@RISK",
-        "QlikVieW"
-      ]
-    }
-    {
-      "name": "DevOps and Versioning",
-      "level": "",
-      "keywords": [
-        "GitHub"
-      ]
-    }
-{
-      "name": "Big Data & AWS Cloud",
-      "level": "",
-      "keywords": [
-        "Scala",
-        "Map Reduce programming",
-        "MongoDB", 
-        "Python Boto3",
-        "CloudTrail",
-        "S3"
-      ]
-    }
-{
-      "name": "Web Development",
-      "level": "",
-      "keywords": [
-        "Java Spring",
-        "C# ASP.NET",
-        "JavaScript",
-        "jQuery",
-        "Microsoft SQL Server",
-        "HTML5 & CSS"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of South Florida, Tampa, Fl",
-      "area": "Business Analytics and Information System (expected Fall, 2018)",
-      "studyType": "M.S.",
-      "startDate": "2017-01-01",
-      "endDate": "2018-12-31",
-      "gpa": "",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "University of South Florida, Tampa, Fl",
-      "position": "Web Developer/Data Analyst",
-      "website": "https://myreviewers.usf.edu/",
-      "startDate": "2017-12-20",
-      "endDate": "Present",
-      "summary": "Web Developer for the My Reviewers app, an online peer review and document markup tool built on ASP.NET",
-      "highlights": [
-        "Working on integrating the Web client with the Web-API based backend and enhancing UX & app features.",
-        "Building an AI agent for the instructors to guide students better with additional insights from text mining.",
-        "Working on developing analytical dashboards for students and instructors, for reviewing student progress.",
-        "Tools Used – C# ASP.NET, Entity Framework and DDD, JavaScript, JQuery and AJAX, RandLex"
-      ]
-    },
-    {
-      "company": "Suncoast Credit Union, Tampa, Fl",
-      "position": "Data Analyst Intern",
-      "website": "",
-      "startDate": "2017-10-13",
-      "endDate": "2017-12-08",
-      "summary": "Worked on predicting fraud in check transactions and reducing loss from consequential account charge-offs.",
-      "highlights": [
-        "Analyzed customer data, device login records, and account activity data to profile users and transactions.",
-        "Built time-series, regression, NB and decision tree models to identify key variables to predict potential fraud in Mobile/ATM check deposits and documented and reported the results using visualization suites.",
-        "Built a highly flexible python-based ETL to synthesize complex variables for analysis and modelling.",
-        "Tools Used – Python, Pandas, Numpy, MS Excel and MS SQL Server, Tableau."
-      ]
-    },
-    {
-      "company": "University of South Florida, Tampa, Fl",
-      "position": "Python Teaching Assistant",
-      "website": "https://github.com/Rhomi/Python-Workshop",
-      "startDate": "2017-07-19",
-      "endDate": "2017-08-16",
-      "summary": "As an adjunct faculty for master’s students, hosted a 4-day Python Bootcamp for a class of 160 students.",
-      "highlights": [
-        "Prepared a highly-practical course material and instructed on topics covering the language’s features, the data munging and visualization abilities it offers along with data structures and algorithms." 
-      ]
-    },
-    {
-      "company": "Infosys Limited, Chennai, India",
-      "position": "Senior Systems Engineer – Java Developer",
-      "website": "",
-      "startDate": "2017-10-01",
-      "endDate": "Present",
-      "summary": "Worked as Java developer with major American and European banking clients, building custom web solutions.",
-      "highlights": [
-        "Conceptualized and built a workflow-based solution for an American bank for fast and automated deployment of web pages onto application servers, using Java & TeamSite reducing deployment time by 80%.",
-        "Replaced existing SOAP-based web services with a RESTful web service for a leading UK-based insurance platform using JAX-RS and Java EE 8. The project development followed Agile methodology and Scrum."
-      ]
-    }
-  ]
-}
+basics:
+  email: georged@mail.usf.edu
+  label: Developer
+  location:
+    address: 
+    city: Tampa
+    countryCode: USA
+    postalCode: 
+    region: Florida
+  name: 'Deepak George'
+  picture: 'https://rhomi.github.io/images/pic.jpg'
+  profiles:
+    -
+      network: github
+      url: 'http://github.com/rhomi'
+      username: rhomi
+    -
+      network: linkedin
+      url: 'https://www.linkedin.com/in/deepak-george-89602590/'
+      username: 'Deepak George'
+    -
+      network: medium
+      url: 'https://medium.com/me/stories/public'
+      username: 'Rhomi Elijah'
+  summary: 'I am a Graduate studen in Business Analytics and Information Systems from the University of South Florida. I expect to graduate in Fall, 2018.'
+  website: 'https://rhomi.github.io'
+education:
+  -
+    area: 'Business Analytics and Information System (expected Fall, 2018)'
+    courses: []
+    endDate: '2018-12-31'
+    gpa: 
+    institution: 'University of South Florida, Tampa, Fl'
+    startDate: '2017-01-01'
+    studyType: M.S.
+interests:
+  -
+    keywords:
+      - AI
+      - 'Deep Learning'
+      - 'Machine Learning'
+    name: 'Data Science'
+  -
+    name: Python
+skills:
+  -
+    keywords:
+      - Python
+      - Anaconda
+      - Numpy
+      - Scikit
+      - Pandas
+      - TensorFlow
+      - Keras
+      - 'Beautiful Soup'
+      - Selenium
+    name: 'Python and Machine Learning'
+  -
+    keywords:
+      - SQL
+      - R
+      - Excel
+      - 'Pivot Table'
+      - Tableau
+      - '@RISK'
+      - QlikVieW
+    level: 
+    name: 'Data Analysis'
+  -
+    keywords:
+      - GitHub
+    level: 
+    name: 'DevOps and Versioning'
+  -
+    keywords:
+      - Scala
+      - 'Map Reduce programming'
+      - MongoDB
+      - 'Python Boto3'
+      - CloudTrail
+      - S3
+    level: 
+    name: 'Big Data & AWS Cloud'
+  -
+    keywords:
+      - 'Java Spring'
+      - 'C# ASP.NET'
+      - JavaScript
+      - jQuery
+      - 'Microsoft SQL Server'
+      - 'HTML5 & CSS'
+    level: 
+    name: 'Web Development'
+work:
+  -
+    company: 'University of South Florida, Tampa, Fl'
+    endDate: Present
+    highlights:
+      - 'Working on integrating the Web client with the Web-API based backend and enhancing UX & app features.'
+      - 'Building an AI agent for the instructors to guide students better with additional insights from text mining.'
+      - 'Working on developing analytical dashboards for students and instructors, for reviewing student progress.'
+      - 'Tools Used – C# ASP.NET, Entity Framework and DDD, JavaScript, JQuery and AJAX, RandLex'
+    position: 'Web Developer/Data Analyst'
+    startDate: '2017-12-20'
+    summary: 'Web Developer for the My Reviewers app, an online peer review and document markup tool built on ASP.NET'
+    website: 'https://myreviewers.usf.edu/'
+  -
+    company: 'Suncoast Credit Union, Tampa, Fl'
+    endDate: '2017-12-08'
+    highlights:
+      - 'Analyzed customer data, device login records, and account activity data to profile users and transactions.'
+      - 'Built time-series, regression, NB and decision tree models to identify key variables to predict potential fraud in Mobile/ATM check deposits and documented and reported the results using visualization suites.'
+      - 'Built a highly flexible python-based ETL to synthesize complex variables for analysis and modelling.'
+      - 'Tools Used – Python, Pandas, Numpy, MS Excel and MS SQL Server, Tableau.'
+    position: 'Data Analyst Intern'
+    startDate: '2017-10-13'
+    summary: 'Worked on predicting fraud in check transactions and reducing loss from consequential account charge-offs.'
+    website: 
+  -
+    company: 'University of South Florida, Tampa, Fl'
+    endDate: '2017-08-16'
+    highlights:
+      - 'Prepared a highly-practical course material and instructed on topics covering the language’s features, the data munging and visualization abilities it offers along with data structures and algorithms.'
+    position: 'Python Teaching Assistant'
+    startDate: '2017-07-19'
+    summary: 'As an adjunct faculty for master’s students, hosted a 4-day Python Bootcamp for a class of 160 students.'
+    website: 'https://github.com/Rhomi/Python-Workshop'
+  -
+    company: 'Infosys Limited, Chennai, India'
+    endDate: Present
+    highlights:
+      - 'Conceptualized and built a workflow-based solution for an American bank for fast and automated deployment of web pages onto application servers, using Java & TeamSite reducing deployment time by 80%.'
+      - 'Replaced existing SOAP-based web services with a RESTful web service for a leading UK-based insurance platform using JAX-RS and Java EE 8. The project development followed Agile methodology and Scrum.'
+    position: 'Senior Systems Engineer – Java Developer'
+    startDate: '2017-10-01'
+    summary: 'Worked as Java developer with major American and European banking clients, building custom web solutions.'
+    website: 
