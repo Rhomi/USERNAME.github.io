@@ -159,13 +159,13 @@
     },
     {
       "company": "Infosys Limited, Chennai, India",
-      "endDate": "Present",
+      "endDate": "2016-11-30",
       "highlights": [
         "Conceptualized and built a workflow-based solution for an American bank for fast and automated deployment of web pages onto application servers, using Java & TeamSite reducing deployment time by 80%.",
         "Replaced existing SOAP-based web services with a RESTful web service for a leading UK-based insurance platform using JAX-RS and Java EE 8. The project development followed Agile methodology and Scrum."
       ],
       "position": "Senior Systems Engineer – Java Developer",
-      "startDate": "2017-10-01",
+      "startDate": "2013-06-03",
       "summary": "Worked as Java developer with major American and European banking clients, building custom web solutions.",
       "website": null
     }
