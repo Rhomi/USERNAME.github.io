@@ -15,6 +15,7 @@ labels:
   - Keras
 
 summary: This was an effort directed towards identifying Lung cancer nodules from patient CT scan images using advanced image classification methods based on Convolutional neural networks and Multi Instance classification techniques.
+projecturl: https://github.com/vivek14632/LungCancerProject
 ---
 
 <ul>
