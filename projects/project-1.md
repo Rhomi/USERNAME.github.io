@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/kaggle.jpg
 title: Lung Cancer Detection
-permalink: projects/micromouse
+permalink: projects/lungcancer
 # All dates must be YYYY-MM-DD format!
 date: 2017-06-01
 labels:
